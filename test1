@@ -1,0 +1,11 @@
+#include<iostream>
+
+void init()
+{
+  std::cout << "yes,this is a test" << std::endl;
+}
+
+int main()
+{
+  init();
+}
